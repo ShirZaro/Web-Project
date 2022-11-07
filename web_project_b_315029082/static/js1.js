@@ -9,7 +9,8 @@ function d1(){
             console.log(i);
             inputs[i].disabled = true;
             inputs[i+1].disabled = true;
-            i=i+4;
+            inputs[i+2].disabled = true;
+            i=i+5;
         }
 
         alert("You are too GOOD!! you should upload weigth:)")

@@ -1,0 +1,251 @@
+Year,Month ,Week ,Ex1_name ,Ex1_rep ,Ex1_coments ,Ex2_name ,Ex2_rep ,Ex2_coments ,Ex3_name ,Ex3_rep ,Ex3_coments ,Ex4_name ,Ex4_rep ,Ex4_coments ,Ex5_name ,Ex5_rep ,Ex5_coments ,Ex6_name ,Ex6_rep ,Ex6_coments ,Ex7_name ,Ex7_rep ,Ex7_coments ,Ex8_name ,Ex8_rep ,Ex8_coments ,Ex9_name ,Ex9_rep ,Ex9_coments 
+2022,1,1,Deadlift,7,second round - tempo,Pushapps,7,pause ,Hiptrust,15,,pullapps,13,tempo,kozak squat ,6,pause ,lunch,7,tempo,hipp push,15,pause ,squat,14,tempo,farmer walk,15,pause 
+2022,1,2,Deadlift,7,pause ,Pushapps,13,tempo,Hiptrust,10,,overhead squat,8,pause ,hipp lift one leg,12,tempo,dinamic lunch,12,pause ,shulder bend,11,tempo,ladder plank,9,max weigth,half berpi,11,tempo
+2022,1,3,Deadlift,11,tempo,Pushapps,10,max weigth,Hiptrust,11,pause ,complex squat,13,tempo,pullapp,12,max weigth,berpi,11,tempo,plank ,6,max weigth,mini squat,12,second round - tempo,holo,10,max weigth
+2022,1,4,Deadlift,8,max weigth,Pushapps,8,second round - tempo,Hiptrust,13,tempo,trusters,8,max weigth,pullover,11,second round - tempo,swing ,9,max weigth,suitcase walk,12,second round - tempo,one-leg-squat,8,second round - tempo,gefresson carls,7,second round - tempo
+2022,2,1,Deadlift,8,second round - tempo,Pushapps,10,second round - tempo,Hiptrust,8,max weigth,nee bend,14,second round - tempo,truster,14,second round - tempo,donki kik,14,second round - tempo,albo push,7,second round - tempo,squat,11,second round - tempo,side-plank,8,second round - tempo
+2022,2,2,Deadlift,12,second round - tempo,Pushapps,15,second round - tempo,Hiptrust,11,second round - tempo,sqapula pullapps,11,,kozak squat ,6,second round - tempo,step up,6,,hipp push,13,second round - tempo,ladder plank,6,pause ,farmer walk,9,second round - tempo
+2022,2,3,Deadlift,9,second round - tempo,Pushapps,9,pause ,Hiptrust,11,,pullapps,7,,hipp lift one leg,6,pause ,lunch,10,,shulder bend,11,pause ,mini squat,7,tempo,half berpi,12,pause 
+2022,2,4,Deadlift,10,pause ,Pushapps,9,tempo,Hiptrust,10,,overhead squat,9,pause ,pullapp,10,tempo,dinamic lunch,7,pause ,plank ,14,tempo,one-leg-squat,13,second round - tempo,holo,12,tempo
+2022,3,1,Deadlift,7,tempo,Pushapps,14,second round - tempo,Hiptrust,9,pause ,complex squat,12,tempo,pullover,12,second round - tempo,berpi,13,tempo,suitcase walk,12,second round - tempo,squat,8,pause ,gefresson carls,7,second round - tempo
+2022,3,2,Deadlift,9,second round - tempo,Pushapps,14,pause ,Hiptrust,9,tempo,trusters,10,max weigth,truster,9,pause ,swing ,11,max weigth,albo push,6,pause ,ladder plank,8,tempo,side-plank,8,pause 
+2022,3,3,Deadlift,10,pause ,Pushapps,13,tempo,Hiptrust,6,max weigth,nee bend,9,second round - tempo,kozak squat ,8,tempo,donki kik,6,second round - tempo,hipp push,10,tempo,mini squat,10,max weigth,farmer walk,15,tempo
+2022,3,4,Deadlift,8,tempo,Pushapps,6,max weigth,Hiptrust,9,second round - tempo,sqapula pullapps,7,,hipp lift one leg,9,max weigth,step up,15,,shulder bend,6,max weigth,one-leg-squat,6,max weigth,half berpi,13,max weigth
+2022,4,1,Deadlift,8,max weigth,Pushapps,12,pause ,Hiptrust,8,,pullapps,11,,pullapp,12,max weigth,lunch,9,,plank ,7,max weigth,squat,12,pause ,holo,6,max weigth
+2022,4,2,Deadlift,9,second round - tempo,Pushapps,7,tempo,Hiptrust,11,,overhead squat,11,pause ,pullover,15,second round - tempo,dinamic lunch,10,pause ,suitcase walk,8,second round - tempo,ladder plank,13,tempo,gefresson carls,11,second round - tempo
+2022,4,3,Deadlift,10,pause ,Pushapps,12,max weigth,Hiptrust,7,pause ,complex squat,11,tempo,truster,11,pause ,berpi,8,tempo,albo push,14,pause ,mini squat,7,max weigth,side-plank,14,pause 
+2022,4,4,Deadlift,6,tempo,Pushapps,6,second round - tempo,Hiptrust,14,tempo,trusters,15,max weigth,kozak squat ,9,tempo,swing ,13,max weigth,hipp push,13,tempo,one-leg-squat,8,second round - tempo,farmer walk,15,tempo
+2022,5,1,Deadlift,11,max weigth,Pushapps,10,pause ,Hiptrust,6,max weigth,nee bend,9,second round - tempo,hipp lift one leg,13,max weigth,donki kik,15,second round - tempo,shulder bend,12,max weigth,squat,8,second round - tempo,half berpi,15,max weigth
+2022,5,2,Deadlift,7,second round - tempo,Pushapps,6,tempo,Hiptrust,12,second round - tempo,sqapula pullapps,11,,pullapp,15,second round - tempo,step up,12,tempo,plank ,6,second round - tempo,ladder plank,13,second round - tempo,holo,8,second round - tempo
+2022,5,3,Deadlift,8,pause ,Pushapps,12,max weigth,Hiptrust,12,,pullapps,9,,pullover,14,pause ,lunch,13,max weigth,suitcase walk,14,pause ,mini squat,10,pause ,gefresson carls,10,pause 
+2022,5,4,Deadlift,7,tempo,Pushapps,10,second round - tempo,Hiptrust,15,,overhead squat,11,pause ,truster,12,tempo,dinamic lunch,8,second round - tempo,albo push,10,tempo,one-leg-squat,9,tempo,side-plank,11,tempo
+2022,6,1,Deadlift,12,max weigth,Pushapps,11,pause ,Hiptrust,8,pause ,complex squat,9,tempo,kozak squat ,13,max weigth,berpi,8,pause ,hipp push,8,max weigth,squat,11,second round - tempo,farmer walk,8,max weigth
+2022,6,2,Deadlift,10,second round - tempo,Pushapps,13,tempo,Hiptrust,9,tempo,trusters,6,max weigth,hipp lift one leg,15,second round - tempo,swing ,10,tempo,shulder bend,12,second round - tempo,ladder plank,7,pause ,half berpi,15,second round - tempo
+2022,6,3,Deadlift,11,pause ,Pushapps,12,max weigth,Hiptrust,11,max weigth,nee bend,11,second round - tempo,pullapp,6,pause ,donki kik,10,max weigth,plank ,9,pause ,mini squat,7,tempo,holo,9,pause 
+2022,6,4,Deadlift,11,tempo,Pushapps,14,second round - tempo,Hiptrust,9,second round - tempo,sqapula pullapps,12,,pullover,8,tempo,step up,8,second round - tempo,suitcase walk,14,tempo,one-leg-squat,9,max weigth,gefresson carls,13,tempo
+2022,7,1,Deadlift,12,max weigth,Pushapps,11,pause ,Hiptrust,9,,pullapps,14,,truster,7,max weigth,lunch,7,pause ,albo push,6,max weigth,squat,6,max weigth,side-plank,10,max weigth
+2022,7,2,Deadlift,12,second round - tempo,Pushapps,12,tempo,Hiptrust,7,,overhead squat,6,pause ,kozak squat ,9,second round - tempo,dinamic lunch,12,tempo,hipp push,8,second round - tempo,ladder plank,13,second round - tempo,farmer walk,13,second round - tempo
+2022,7,3,Deadlift,8,pause ,Pushapps,12,max weigth,Hiptrust,8,pause ,complex squat,12,tempo,hipp lift one leg,14,pause ,berpi,6,max weigth,shulder bend,9,pause ,mini squat,7,pause ,half berpi,7,pause 
+2022,7,4,Deadlift,11,tempo,Pushapps,12,second round - tempo,Hiptrust,10,tempo,trusters,7,max weigth,pullapp,9,tempo,swing ,15,second round - tempo,plank ,14,tempo,one-leg-squat,8,tempo,holo,14,tempo
+2022,8,1,Deadlift,10,max weigth,Pushapps,8,pause ,Hiptrust,15,max weigth,nee bend,14,second round - tempo,pullover,14,max weigth,donki kik,6,pause ,suitcase walk,8,max weigth,squat,7,max weigth,gefresson carls,15,max weigth
+2022,8,2,Deadlift,9,second round - tempo,Pushapps,9,tempo,Hiptrust,7,second round - tempo,sqapula pullapps,9,,truster,7,second round - tempo,step up,11,tempo,albo push,12,second round - tempo,ladder plank,10,second round - tempo,side-plank,9,second round - tempo
+2022,8,3,Deadlift,12,pause ,Pushapps,7,max weigth,Hiptrust,13,,pullapps,12,,kozak squat ,8,pause ,lunch,11,max weigth,hipp push,12,pause ,mini squat,14,pause ,farmer walk,14,pause 
+2022,8,4,Deadlift,10,tempo,Pushapps,14,second round - tempo,Hiptrust,9,,overhead squat,11,pause ,hipp lift one leg,7,tempo,dinamic lunch,8,second round - tempo,shulder bend,12,tempo,one-leg-squat,14,tempo,half berpi,12,tempo
+2022,9,1,Deadlift,8,max weigth,Pushapps,14,second round - tempo,Hiptrust,11,pause ,complex squat,12,tempo,pullapp,12,max weigth,berpi,9,pause ,plank ,7,max weigth,squat,11,max weigth,holo,13,max weigth
+2022,9,2,Deadlift,6,second round - tempo,Pushapps,6,second round - tempo,Hiptrust,8,tempo,trusters,14,max weigth,pullover,8,second round - tempo,swing ,9,tempo,suitcase walk,6,second round - tempo,ladder plank,13,second round - tempo,gefresson carls,6,second round - tempo
+2022,9,3,Deadlift,8,pause ,Pushapps,15,pause ,Hiptrust,12,max weigth,nee bend,9,second round - tempo,truster,11,pause ,donki kik,14,max weigth,albo push,8,pause ,mini squat,13,pause ,side-plank,9,pause 
+2022,9,4,Deadlift,6,tempo,Pushapps,12,tempo,Hiptrust,13,second round - tempo,sqapula pullapps,12,,kozak squat ,14,tempo,step up,6,second round - tempo,hipp push,10,tempo,one-leg-squat,13,tempo,farmer walk,10,tempo
+2022,10,1,Deadlift,12,max weigth,Pushapps,6,second round - tempo,Hiptrust,6,,pullapps,6,,hipp lift one leg,7,max weigth,lunch,14,pause ,shulder bend,8,max weigth,squat,13,max weigth,half berpi,9,max weigth
+2022,10,2,Deadlift,6,second round - tempo,Pushapps,10,pause ,Hiptrust,6,,overhead squat,15,pause ,pullapp,15,second round - tempo,dinamic lunch,8,tempo,plank ,8,second round - tempo,ladder plank,10,second round - tempo,holo,8,second round - tempo
+2022,10,3,Deadlift,9,pause ,Pushapps,13,tempo,Hiptrust,14,pause ,complex squat,12,tempo,pullover,14,pause ,berpi,9,max weigth,suitcase walk,12,pause ,mini squat,12,pause ,gefresson carls,10,pause 
+2022,10,4,Deadlift,7,tempo,Pushapps,10,max weigth,Hiptrust,10,tempo,trusters,9,max weigth,truster,11,tempo,swing ,15,second round - tempo,albo push,11,tempo,one-leg-squat,14,tempo,side-plank,8,tempo
+2022,11,1,Deadlift,10,max weigth,Pushapps,6,pause ,Hiptrust,13,max weigth,nee bend,9,second round - tempo,kozak squat ,13,max weigth,donki kik,14,pause ,hipp push,9,max weigth,squat,11,max weigth,farmer walk,11,max weigth
+2022,11,2,Deadlift,11,second round - tempo,Pushapps,11,tempo,Hiptrust,7,second round - tempo,sqapula pullapps,13,,hipp lift one leg,13,second round - tempo,step up,8,tempo,shulder bend,6,second round - tempo,ladder plank,7,second round - tempo,half berpi,7,second round - tempo
+2022,11,3,Deadlift,12,pause ,Pushapps,8,max weigth,Hiptrust,12,,pullapps,14,,pullapp,8,pause ,lunch,11,max weigth,plank ,11,pause ,mini squat,10,pause ,holo,15,pause 
+2022,11,4,Deadlift,6,tempo,Pushapps,8,second round - tempo,Hiptrust,7,,overhead squat,7,pause ,pullover,6,tempo,dinamic lunch,8,second round - tempo,suitcase walk,11,tempo,one-leg-squat,7,tempo,gefresson carls,13,tempo
+2022,12,1,Deadlift,12,max weigth,Pushapps,8,pause ,Hiptrust,12,pause ,complex squat,14,tempo,truster,7,max weigth,berpi,12,pause ,albo push,15,max weigth,squat,13,max weigth,side-plank,15,max weigth
+2022,12,2,Deadlift,9,second round - tempo,Pushapps,12,tempo,Hiptrust,10,tempo,trusters,6,max weigth,kozak squat ,11,second round - tempo,swing ,6,tempo,hipp push,6,second round - tempo,ladder plank,13,second round - tempo,farmer walk,8,second round - tempo
+2022,12,3,Deadlift,11,pause ,Pushapps,12,max weigth,Hiptrust,10,max weigth,nee bend,11,second round - tempo,hipp lift one leg,9,pause ,donki kik,14,max weigth,shulder bend,11,pause ,mini squat,10,pause ,half berpi,8,pause 
+2022,12,4,Deadlift,8,tempo,Pushapps,15,second round - tempo,Hiptrust,9,second round - tempo,sqapula pullapps,11,,pullapp,7,tempo,step up,15,second round - tempo,plank ,14,tempo,one-leg-squat,8,tempo,holo,8,tempo
+,,,,,,,,,,,,,,,,,,,14,pause ,suitcase walk,9,max weigth,squat,6,max weigth,gefresson carls,14,max weigth
+,,,,,,,,,,,,,,,,,,,15,tempo,albo push,11,second round - tempo,ladder plank,6,second round - tempo,side-plank,11,second round - tempo
+,,,,,,,,,,,,,,,,,,,15,max weigth,hipp push,12,pause ,mini squat,10,pause ,farmer walk,13,pause 
+,,,,,,,,,,,,,,,,,,,6,second round - tempo,shulder bend,6,tempo,one-leg-squat,7,tempo,half berpi,15,tempo
+,,,,,,,,,,,,,,,,,,,14,pause ,plank ,13,max weigth,squat,11,max weigth,holo,11,max weigth
+,,,,,,,,,,,,,,,,,,,9,tempo,suitcase walk,7,second round - tempo,ladder plank,10,second round - tempo,gefresson carls,7,second round - tempo
+,,,,,,,,,,,,,,,,,,,11,max weigth,albo push,11,pause ,mini squat,8,pause ,side-plank,7,pause 
+,,,,,,,,,,,,,,,,,,,12,second round - tempo,hipp push,8,tempo,one-leg-squat,6,tempo,farmer walk,11,tempo
+,,,,,,,,,,,,,,,,,,,8,pause ,shulder bend,8,max weigth,squat,10,max weigth,half berpi,6,max weigth
+,,,,,,,,,,,,,,,,,,,12,tempo,plank ,8,second round - tempo,ladder plank,10,second round - tempo,holo,13,second round - tempo
+,,,,,,,,,,,,,,,,,,,12,max weigth,suitcase walk,15,pause ,mini squat,8,pause ,gefresson carls,9,pause 
+,,,,,,,,,,,,,,,,,,,14,second round - tempo,albo push,6,tempo,one-leg-squat,15,tempo,side-plank,8,tempo
+,,,,,,,,,,,,,,,,,,,15,pause ,hipp push,9,max weigth,squat,14,max weigth,farmer walk,7,max weigth
+,,,,,,,,,,,,,,,,,,,11,tempo,shulder bend,12,second round - tempo,ladder plank,13,second round - tempo,half berpi,7,second round - tempo
+,,,,,,,,,,,,,,,,,,,6,max weigth,plank ,12,pause ,mini squat,10,pause ,holo,7,pause 
+,,,,,,,,,,,,,,,,,,,7,second round - tempo,suitcase walk,8,tempo,one-leg-squat,9,tempo,gefresson carls,12,tempo
+,,,,,,,,,,,,,,,,,,,8,pause ,albo push,15,max weigth,squat,7,max weigth,side-plank,9,max weigth
+,,,,,,,,,,,,,,,,,,,14,tempo,hipp push,9,second round - tempo,ladder plank,11,second round - tempo,farmer walk,12,second round - tempo
+,,,,,,,,,,,,,,,,,,,10,max weigth,shulder bend,14,pause ,mini squat,12,pause ,half berpi,8,pause 
+,,,,,,,,,,,,,,,,,,,14,second round - tempo,plank ,8,tempo,one-leg-squat,14,tempo,holo,9,tempo
+,,,,,,,,,,,,,,,,,,,10,pause ,suitcase walk,10,max weigth,squat,6,max weigth,gefresson carls,13,max weigth
+,,,,,,,,,,,,,,,,,,,12,tempo,albo push,7,second round - tempo,ladder plank,14,second round - tempo,side-plank,8,second round - tempo
+,,,,,,,,,,,,,,,,,,,14,max weigth,hipp push,8,pause ,mini squat,7,pause ,farmer walk,15,pause 
+,,,,,,,,,,,,,,,,,,,12,second round - tempo,shulder bend,6,tempo,one-leg-squat,12,tempo,half berpi,14,tempo
+,,,,,,,,,,,,,,,,,,,9,pause ,plank ,15,max weigth,squat,11,max weigth,holo,7,max weigth
+,,,,,,,,,,,,,,,,,,,7,tempo,suitcase walk,9,second round - tempo,ladder plank,9,second round - tempo,gefresson carls,10,second round - tempo
+,,,,,,,,,,,,,,,,,,,14,max weigth,albo push,7,pause ,mini squat,13,pause ,side-plank,11,pause 
+,,,,,,,,,,,,,,,,,,,7,second round - tempo,hipp push,12,tempo,one-leg-squat,6,tempo,farmer walk,8,tempo
+,,,,,,,,,,,,,,,,,,,15,second round - tempo,shulder bend,6,max weigth,squat,14,max weigth,half berpi,14,max weigth
+,,,,,,,,,,,,,,,,,,,13,second round - tempo,plank ,7,second round - tempo,ladder plank,6,second round - tempo,holo,11,second round - tempo
+,,,,,,,,,,,,,,,,,,,9,pause ,suitcase walk,11,second round - tempo,mini squat,13,pause ,gefresson carls,12,second round - tempo
+,,,,,,,,,,,,,,,,,,,15,tempo,albo push,8,second round - tempo,one-leg-squat,13,tempo,side-plank,12,second round - tempo
+,,,,,,,,,,,,,,,,,,,15,second round - tempo,hipp push,13,pause ,squat,11,max weigth,farmer walk,12,pause 
+,,,,,,,,,,,,,,,,,,,8,pause ,shulder bend,11,tempo,ladder plank,9,second round - tempo,half berpi,12,tempo
+,,,,,,,,,,,,,,,,,,,11,tempo,plank ,15,second round - tempo,mini squat,10,pause ,holo,12,second round - tempo
+,,,,,,,,,,,,,,,,,,,9,max weigth,suitcase walk,8,pause ,one-leg-squat,9,tempo,gefresson carls,8,pause 
+,,,,,,,,,,,,,,,,,,,11,second round - tempo,albo push,13,tempo,squat,6,max weigth,side-plank,10,tempo
+,,,,,,,,,,,,,,,,,,,12,pause ,hipp push,10,max weigth,ladder plank,10,second round - tempo,farmer walk,7,max weigth
+,,,,,,,,,,,,,,,,,,,15,tempo,shulder bend,13,second round - tempo,mini squat,10,pause ,half berpi,6,second round - tempo
+,,,,,,,,,,,,,,,,,,,11,max weigth,plank ,15,pause ,one-leg-squat,14,tempo,holo,9,pause 
+,,,,,,,,,,,,,,,,,,,15,second round - tempo,suitcase walk,13,tempo,squat,6,max weigth,gefresson carls,11,tempo
+,,,,,,,,,,,,,,,,,,,6,pause ,albo push,10,max weigth,ladder plank,9,second round - tempo,side-plank,13,max weigth
+,,,,,,,,,,,,,,,,,,,14,tempo,hipp push,6,second round - tempo,mini squat,13,second round - tempo,farmer walk,13,second round - tempo
+,,,,,,,,,,,,,,,,,,,10,max weigth,shulder bend,7,pause ,one-leg-squat,9,second round - tempo,half berpi,12,pause 
+,,,,,,,,,,,,,,,,,,,13,second round - tempo,plank ,13,tempo,squat,7,pause ,holo,9,tempo
+,,,,,,,,,,,,,,,,,,,14,pause ,suitcase walk,14,max weigth,ladder plank,8,tempo,gefresson carls,12,max weigth
+,,,,,,,,,,,,,,,,,,,11,tempo,albo push,10,second round - tempo,mini squat,10,second round - tempo,side-plank,15,second round - tempo
+,,,,,,,,,,,,,,,,,,,8,max weigth,hipp push,15,pause ,one-leg-squat,12,pause ,farmer walk,8,pause 
+,,,,,,,,,,,,,,,,,,,6,second round - tempo,shulder bend,9,tempo,squat,8,tempo,half berpi,13,tempo
+,,,,,,,,,,,,,,,,,,,9,pause ,plank ,12,max weigth,ladder plank,6,max weigth,holo,8,max weigth
+,,,,,,,,,,,,,,,,,,,10,tempo,suitcase walk,12,second round - tempo,mini squat,6,second round - tempo,gefresson carls,8,second round - tempo
+,,,,,,,,,,,,,,,,,,,8,max weigth,albo push,11,pause ,one-leg-squat,8,pause ,side-plank,8,pause 
+,,,,,,,,,,,,,,,,,,,12,second round - tempo,hipp push,14,tempo,squat,6,tempo,farmer walk,8,tempo
+,,,,,,,,,,,,,,,,,,,14,pause ,shulder bend,11,max weigth,ladder plank,6,max weigth,half berpi,13,max weigth
+,,,,,,,,,,,,,,,,,,,7,tempo,plank ,9,second round - tempo,mini squat,12,second round - tempo,holo,13,second round - tempo
+,,,,,,,,,,,,,,,,,,,8,max weigth,suitcase walk,13,pause ,one-leg-squat,7,pause ,gefresson carls,14,pause 
+,,,,,,,,,,,,,,,,,,,12,second round - tempo,albo push,8,tempo,squat,15,tempo,side-plank,15,tempo
+,,,,,,,,,,,,,,,,,,,10,pause ,hipp push,12,max weigth,ladder plank,9,max weigth,farmer walk,14,max weigth
+,,,,,,,,,,,,,,,,,,,10,tempo,shulder bend,8,second round - tempo,mini squat,10,second round - tempo,half berpi,10,second round - tempo
+,,,,,,,,,,,,,,,,,,,7,max weigth,plank ,12,pause ,one-leg-squat,15,pause ,holo,10,pause 
+,,,,,,,,,,,,,,,,,,,10,second round - tempo,suitcase walk,10,tempo,squat,15,tempo,gefresson carls,7,tempo
+,,,,,,,,,,,,,,,,,,,15,pause ,albo push,6,max weigth,ladder plank,7,max weigth,side-plank,14,max weigth
+,,,,,,,,,,,,,,,,,,,10,tempo,hipp push,10,second round - tempo,mini squat,13,second round - tempo,farmer walk,10,second round - tempo
+,,,,,,,,,,,,,,,,,,,8,max weigth,shulder bend,9,pause ,one-leg-squat,10,pause ,half berpi,8,pause 
+,,,,,,,,,,,,,,,,,,,12,second round - tempo,plank ,13,tempo,squat,9,tempo,holo,15,tempo
+,,,,,,,,,,,,,,,,,,,7,pause ,suitcase walk,13,max weigth,ladder plank,11,max weigth,gefresson carls,7,max weigth
+,,,,,,,,,,,,,,,,,,,7,tempo,albo push,14,second round - tempo,mini squat,9,second round - tempo,side-plank,9,second round - tempo
+,,,,,,,,,,,,,,,,,,,11,max weigth,hipp push,14,pause ,one-leg-squat,10,pause ,farmer walk,9,pause 
+,,,,,,,,,,,,,,,,,,,14,second round - tempo,shulder bend,11,tempo,squat,15,tempo,half berpi,8,tempo
+,,,,,,,,,,,,,,,,,,,15,pause ,plank ,10,max weigth,ladder plank,15,max weigth,holo,12,max weigth
+,,,,,,,,,,,,,,,,,,,8,tempo,suitcase walk,11,second round - tempo,mini squat,10,second round - tempo,gefresson carls,12,second round - tempo
+,,,,,,,,,,,,,,,,,,,6,max weigth,albo push,10,pause ,one-leg-squat,13,pause ,side-plank,13,pause 
+,,,,,,,,,,,,,,,,,,,9,second round - tempo,hipp push,14,tempo,squat,10,tempo,farmer walk,12,tempo
+,,,,,,,,,,,,,,,,,,,10,pause ,shulder bend,9,max weigth,ladder plank,10,max weigth,half berpi,12,max weigth
+,,,,,,,,,,,,,,,,,,,9,tempo,plank ,15,second round - tempo,mini squat,13,second round - tempo,holo,13,second round - tempo
+,,,,,,,,,,,,,,,,,,,12,max weigth,suitcase walk,8,pause ,one-leg-squat,14,pause ,gefresson carls,13,pause 
+,,,,,,,,,,,,,,,,,,,6,second round - tempo,albo push,9,tempo,squat,13,tempo,side-plank,8,tempo
+,,,,,,,,,,,,,,,,,,,15,pause ,hipp push,8,max weigth,ladder plank,11,max weigth,farmer walk,13,max weigth
+,,,,,,,,,,,,,,,,,,,7,tempo,shulder bend,14,second round - tempo,mini squat,13,second round - tempo,half berpi,10,second round - tempo
+,,,,,,,,,,,,,,,,,,,9,max weigth,plank ,12,pause ,one-leg-squat,12,pause ,holo,13,pause 
+,,,,,,,,,,,,,,,,,,,6,second round - tempo,suitcase walk,12,tempo,squat,9,tempo,gefresson carls,7,tempo
+,,,,,,,,,,,,,,,,,,,7,pause ,albo push,15,max weigth,ladder plank,13,max weigth,side-plank,8,max weigth
+,,,,,,,,,,,,,,,,,,,8,tempo,hipp push,14,second round - tempo,mini squat,10,second round - tempo,farmer walk,12,second round - tempo
+,,,,,,,,,,,,,,,,,,,8,max weigth,shulder bend,9,pause ,one-leg-squat,9,pause ,half berpi,13,pause 
+,,,,,,,,,,,,,,,,,,,13,second round - tempo,plank ,7,tempo,squat,10,tempo,holo,15,tempo
+,,,,,,,,,,,,,,,,,,,15,pause ,suitcase walk,15,max weigth,ladder plank,13,max weigth,gefresson carls,12,max weigth
+,,,,,,,,,,,,,,,,,,,8,tempo,albo push,10,second round - tempo,mini squat,7,second round - tempo,side-plank,9,second round - tempo
+,,,,,,,,,,,,,,,,,,,9,max weigth,hipp push,9,pause ,one-leg-squat,14,pause ,farmer walk,13,pause 
+,,,,,,,,,,,,,,,,,,,12,second round - tempo,shulder bend,6,tempo,squat,11,tempo,half berpi,15,tempo
+,,,,,,,,,,,,,,,,,,,13,pause ,plank ,12,max weigth,ladder plank,15,max weigth,holo,11,max weigth
+,,,,,,,,,,,,,,,,,,,13,tempo,suitcase walk,7,second round - tempo,mini squat,7,second round - tempo,gefresson carls,6,second round - tempo
+,,,,,,,,,,,,,,,,,,,15,max weigth,albo push,14,pause ,one-leg-squat,10,pause ,side-plank,11,pause 
+,,,,,,,,,,,,,,,,,,,9,second round - tempo,hipp push,12,tempo,squat,12,tempo,farmer walk,15,tempo
+,,,,,,,,,,,,,,,,,,,12,pause ,shulder bend,13,max weigth,ladder plank,15,max weigth,half berpi,11,max weigth
+,,,,,,,,,,,,,,,,,,,9,tempo,plank ,15,second round - tempo,mini squat,11,second round - tempo,holo,13,second round - tempo
+,,,,,,,,,,,,,,,,,,,14,max weigth,suitcase walk,6,pause ,one-leg-squat,12,pause ,gefresson carls,11,pause 
+,,,,,,,,,,,,,,,,,,,7,second round - tempo,albo push,6,tempo,squat,12,tempo,side-plank,10,tempo
+,,,,,,,,,,,,,,,,,,,15,pause ,hipp push,8,max weigth,ladder plank,11,max weigth,farmer walk,9,max weigth
+,,,,,,,,,,,,,,,,,,,6,tempo,shulder bend,13,second round - tempo,mini squat,14,second round - tempo,half berpi,6,second round - tempo
+,,,,,,,,,,,,,,,,,,,9,max weigth,plank ,6,pause ,one-leg-squat,6,pause ,holo,6,pause 
+,,,,,,,,,,,,,,,,,,,7,second round - tempo,suitcase walk,8,tempo,squat,14,tempo,gefresson carls,11,tempo
+,,,,,,,,,,,,,,,,,,,15,second round - tempo,albo push,14,max weigth,ladder plank,13,max weigth,side-plank,14,max weigth
+,,,,,,,,,,,,,,,,,,,7,second round - tempo,hipp push,9,second round - tempo,mini squat,8,second round - tempo,farmer walk,7,second round - tempo
+,,,,,,,,,,,,,,,,,,,12,pause ,shulder bend,12,second round - tempo,one-leg-squat,13,pause ,half berpi,11,second round - tempo
+,,,,,,,,,,,,,,,,,,,7,tempo,plank ,13,second round - tempo,squat,13,tempo,holo,14,second round - tempo
+,,,,,,,,,,,,,,,,,,,10,second round - tempo,suitcase walk,8,pause ,ladder plank,7,max weigth,gefresson carls,15,pause 
+,,,,,,,,,,,,,,,,,,,10,pause ,albo push,6,tempo,mini squat,12,second round - tempo,side-plank,10,tempo
+,,,,,,,,,,,,,,,,,,,10,tempo,hipp push,10,second round - tempo,one-leg-squat,14,pause ,farmer walk,14,second round - tempo
+,,,,,,,,,,,,,,,,,,,15,max weigth,shulder bend,8,pause ,squat,15,tempo,half berpi,10,pause 
+,,,,,,,,,,,,,,,,,,,10,second round - tempo,plank ,10,tempo,ladder plank,14,max weigth,holo,7,tempo
+,,,,,,,,,,,,,,,,,,,15,pause ,suitcase walk,8,max weigth,mini squat,7,second round - tempo,gefresson carls,13,max weigth
+,,,,,,,,,,,,,,,,,,,9,tempo,albo push,7,second round - tempo,one-leg-squat,11,pause ,side-plank,15,second round - tempo
+,,,,,,,,,,,,,,,,,,,14,max weigth,hipp push,11,pause ,squat,13,tempo,farmer walk,13,pause 
+,,,,,,,,,,,,,,,,,,,8,second round - tempo,shulder bend,7,tempo,ladder plank,14,max weigth,half berpi,7,tempo
+,,,,,,,,,,,,,,,,,,,11,pause ,plank ,10,max weigth,mini squat,7,second round - tempo,holo,8,max weigth
+,,,,,,,,,,,,,,,,,,,9,tempo,suitcase walk,13,second round - tempo,one-leg-squat,9,second round - tempo,gefresson carls,9,second round - tempo
+,,,,,,,,,,,,,,,,,,,6,max weigth,albo push,10,pause ,squat,13,second round - tempo,side-plank,14,pause 
+,,,,,,,,,,,,,,,,,,,13,second round - tempo,hipp push,14,tempo,ladder plank,15,pause ,farmer walk,14,tempo
+,,,,,,,,,,,,,,,,,,,14,pause ,shulder bend,11,max weigth,mini squat,15,tempo,half berpi,8,max weigth
+,,,,,,,,,,,,,,,,,,,13,tempo,plank ,15,second round - tempo,one-leg-squat,10,second round - tempo,holo,9,second round - tempo
+,,,,,,,,,,,,,,,,,,,13,max weigth,suitcase walk,11,pause ,squat,7,pause ,gefresson carls,13,pause 
+,,,,,,,,,,,,,,,,,,,13,second round - tempo,albo push,15,tempo,ladder plank,15,tempo,side-plank,7,tempo
+,,,,,,,,,,,,,,,,,,,11,pause ,hipp push,15,max weigth,mini squat,10,max weigth,farmer walk,9,max weigth
+,,,,,,,,,,,,,,,,,,,12,tempo,shulder bend,7,second round - tempo,one-leg-squat,14,second round - tempo,half berpi,12,second round - tempo
+,,,,,,,,,,,,,,,,,,,15,max weigth,plank ,7,pause ,squat,7,pause ,holo,9,pause 
+,,,,,,,,,,,,,,,,,,,9,second round - tempo,suitcase walk,6,tempo,ladder plank,7,tempo,gefresson carls,13,tempo
+,,,,,,,,,,,,,,,,,,,7,pause ,albo push,9,max weigth,mini squat,7,max weigth,side-plank,6,max weigth
+,,,,,,,,,,,,,,,,,,,15,tempo,hipp push,11,second round - tempo,one-leg-squat,15,second round - tempo,farmer walk,11,second round - tempo
+,,,,,,,,,,,,,,,,,,,8,max weigth,shulder bend,12,pause ,squat,13,pause ,half berpi,9,pause 
+,,,,,,,,,,,,,,,,,,,7,second round - tempo,plank ,6,tempo,ladder plank,11,tempo,holo,6,tempo
+,,,,,,,,,,,,,,,,,,,11,pause ,suitcase walk,6,max weigth,mini squat,12,max weigth,gefresson carls,7,max weigth
+,,,,,,,,,,,,,,,,,,,15,tempo,albo push,13,second round - tempo,one-leg-squat,10,second round - tempo,side-plank,6,second round - tempo
+,,,,,,,,,,,,,,,,,,,11,max weigth,hipp push,13,pause ,squat,8,pause ,farmer walk,8,pause 
+,,,,,,,,,,,,,,,,,,,15,second round - tempo,shulder bend,8,tempo,ladder plank,15,tempo,half berpi,14,tempo
+,,,,,,,,,,,,,,,,,,,14,pause ,plank ,15,max weigth,mini squat,13,max weigth,holo,14,max weigth
+,,,,,,,,,,,,,,,,,,,8,tempo,suitcase walk,9,second round - tempo,one-leg-squat,11,second round - tempo,gefresson carls,7,second round - tempo
+,,,,,,,,,,,,,,,,,,,13,max weigth,albo push,9,pause ,squat,6,pause ,side-plank,8,pause 
+,,,,,,,,,,,,,,,,,,,8,second round - tempo,hipp push,10,tempo,ladder plank,9,tempo,farmer walk,8,tempo
+,,,,,,,,,,,,,,,,,,,14,pause ,shulder bend,12,max weigth,mini squat,11,max weigth,half berpi,7,max weigth
+,,,,,,,,,,,,,,,,,,,8,tempo,plank ,11,second round - tempo,one-leg-squat,9,second round - tempo,holo,15,second round - tempo
+,,,,,,,,,,,,,,,,,,,8,max weigth,suitcase walk,10,pause ,squat,9,pause ,gefresson carls,15,pause 
+,,,,,,,,,,,,,,,,,,,6,second round - tempo,albo push,11,tempo,ladder plank,6,tempo,side-plank,12,tempo
+,,,,,,,,,,,,,,,,,,,6,pause ,hipp push,13,max weigth,mini squat,10,max weigth,farmer walk,9,max weigth
+,,,,,,,,,,,,,,,,,,,8,tempo,shulder bend,8,second round - tempo,one-leg-squat,11,second round - tempo,half berpi,7,second round - tempo
+,,,,,,,,,,,,,,,,,,,9,max weigth,plank ,9,pause ,squat,11,pause ,holo,10,pause 
+,,,,,,,,,,,,,,,,,,,9,second round - tempo,suitcase walk,12,tempo,ladder plank,7,tempo,gefresson carls,8,tempo
+,,,,,,,,,,,,,,,,,,,12,pause ,albo push,9,max weigth,mini squat,11,max weigth,side-plank,7,max weigth
+,,,,,,,,,,,,,,,,,,,14,tempo,hipp push,13,second round - tempo,one-leg-squat,6,second round - tempo,farmer walk,9,second round - tempo
+,,,,,,,,,,,,,,,,,,,11,max weigth,shulder bend,14,pause ,squat,12,pause ,half berpi,7,pause 
+,,,,,,,,,,,,,,,,,,,15,second round - tempo,plank ,11,tempo,ladder plank,12,tempo,holo,15,tempo
+,,,,,,,,,,,,,,,,,,,15,pause ,suitcase walk,9,max weigth,mini squat,10,max weigth,gefresson carls,15,max weigth
+,,,,,,,,,,,,,,,,,,,12,tempo,albo push,8,second round - tempo,one-leg-squat,8,second round - tempo,side-plank,10,second round - tempo
+,,,,,,,,,,,,,,,,,,,11,max weigth,hipp push,6,pause ,squat,11,pause ,farmer walk,12,pause 
+,,,,,,,,,,,,,,,,,,,11,second round - tempo,shulder bend,9,tempo,ladder plank,8,tempo,half berpi,13,tempo
+,,,,,,,,,,,,,,,,,,,8,pause ,plank ,11,max weigth,mini squat,9,max weigth,holo,10,max weigth
+,,,,,,,,,,,,,,,,,,,6,tempo,suitcase walk,6,second round - tempo,one-leg-squat,13,second round - tempo,gefresson carls,11,second round - tempo
+,,,,,,,,,,,,,,,,,,,8,max weigth,albo push,12,pause ,squat,9,pause ,side-plank,7,pause 
+,,,,,,,,,,,,,,,,,,,8,second round - tempo,hipp push,11,tempo,ladder plank,12,tempo,farmer walk,7,tempo
+,,,,,,,,,,,,,,,,,,,11,pause ,shulder bend,13,max weigth,mini squat,8,max weigth,half berpi,8,max weigth
+,,,,,,,,,,,,,,,,,,,6,tempo,plank ,11,second round - tempo,one-leg-squat,14,second round - tempo,holo,15,second round - tempo
+,,,,,,,,,,,,,,,,,,,14,max weigth,suitcase walk,12,pause ,squat,10,pause ,gefresson carls,14,pause 
+,,,,,,,,,,,,,,,,,,,7,second round - tempo,albo push,10,tempo,ladder plank,10,tempo,side-plank,8,tempo
+,,,,,,,,,,,,,,,,,,,12,pause ,hipp push,14,max weigth,mini squat,7,max weigth,farmer walk,14,max weigth
+,,,,,,,,,,,,,,,,,,,9,tempo,shulder bend,7,second round - tempo,one-leg-squat,8,second round - tempo,half berpi,15,second round - tempo
+,,,,,,,,,,,,,,,,,,,8,max weigth,plank ,8,pause ,squat,10,pause ,holo,14,pause 
+,,,,,,,,,,,,,,,,,,,13,second round - tempo,suitcase walk,12,tempo,ladder plank,14,tempo,gefresson carls,12,tempo
+,,,,,,,,,,,,,,,,,,,12,pause ,albo push,12,max weigth,mini squat,6,max weigth,side-plank,10,max weigth
+,,,,,,,,,,,,,,,,,,,9,tempo,hipp push,9,second round - tempo,one-leg-squat,8,second round - tempo,farmer walk,6,second round - tempo
+,,,,,,,,,,,,,,,,,,,12,max weigth,shulder bend,8,pause ,squat,15,pause ,half berpi,15,pause 
+,,,,,,,,,,,,,,,,,,,12,second round - tempo,plank ,10,tempo,ladder plank,12,tempo,holo,15,tempo
+,,,,,,,,,,,,,,,,,,,7,pause ,suitcase walk,11,max weigth,mini squat,12,max weigth,gefresson carls,11,max weigth
+,,,,,,,,,,,,,,,,,,,12,tempo,albo push,10,second round - tempo,one-leg-squat,6,second round - tempo,side-plank,15,second round - tempo
+,,,,,,,,,,,,,,,,,,,10,max weigth,hipp push,11,pause ,squat,12,pause ,farmer walk,11,pause 
+,,,,,,,,,,,,,,,,,,,11,second round - tempo,shulder bend,7,tempo,ladder plank,6,tempo,half berpi,9,tempo
+,,,,,,,,,,,,,,,,,,,13,second round - tempo,plank ,10,max weigth,mini squat,13,max weigth,holo,12,max weigth
+,,,,,,,,,,,,,,,,,,,10,second round - tempo,suitcase walk,10,second round - tempo,one-leg-squat,8,second round - tempo,gefresson carls,14,second round - tempo
+,,,,,,,,,,,,,,,,,,,10,pause ,albo push,9,second round - tempo,squat,14,pause ,side-plank,14,second round - tempo
+,,,,,,,,,,,,,,,,,,,9,tempo,hipp push,15,second round - tempo,ladder plank,10,tempo,farmer walk,13,second round - tempo
+,,,,,,,,,,,,,,,,,,,10,second round - tempo,shulder bend,12,pause ,mini squat,13,max weigth,half berpi,12,pause 
+,,,,,,,,,,,,,,,,,,,11,pause ,plank ,15,tempo,one-leg-squat,12,second round - tempo,holo,12,tempo
+,,,,,,,,,,,,,,,,,,,11,tempo,suitcase walk,13,second round - tempo,squat,6,pause ,gefresson carls,13,second round - tempo
+,,,,,,,,,,,,,,,,,,,10,max weigth,albo push,10,pause ,ladder plank,8,tempo,side-plank,11,pause 
+,,,,,,,,,,,,,,,,,,,7,second round - tempo,hipp push,14,tempo,mini squat,14,max weigth,farmer walk,15,tempo
+,,,,,,,,,,,,,,,,,,,12,pause ,shulder bend,13,max weigth,one-leg-squat,10,second round - tempo,half berpi,11,max weigth
+,,,,,,,,,,,,,,,,,,,6,tempo,plank ,13,second round - tempo,squat,6,pause ,holo,9,second round - tempo
+,,,,,,,,,,,,,,,,,,,14,max weigth,suitcase walk,15,pause ,ladder plank,14,tempo,gefresson carls,10,pause 
+,,,,,,,,,,,,,,,,,,,12,second round - tempo,albo push,8,tempo,mini squat,9,max weigth,side-plank,13,tempo
+,,,,,,,,,,,,,,,,,,,15,pause ,hipp push,11,max weigth,one-leg-squat,11,second round - tempo,farmer walk,14,max weigth
+,,,,,,,,,,,,,,,,,,,7,tempo,shulder bend,7,second round - tempo,squat,10,second round - tempo,half berpi,10,second round - tempo
+,,,,,,,,,,,,,,,,,,,7,max weigth,plank ,14,pause ,ladder plank,15,second round - tempo,holo,6,pause 
+,,,,,,,,,,,,,,,,,,,15,second round - tempo,suitcase walk,9,tempo,mini squat,15,pause ,gefresson carls,10,tempo
+,,,,,,,,,,,,,,,,,,,14,pause ,albo push,9,max weigth,one-leg-squat,9,tempo,side-plank,9,max weigth
+,,,,,,,,,,,,,,,,,,,9,tempo,hipp push,6,second round - tempo,squat,8,second round - tempo,farmer walk,8,second round - tempo
+,,,,,,,,,,,,,,,,,,,7,max weigth,shulder bend,9,pause ,ladder plank,11,pause ,half berpi,6,pause 
+,,,,,,,,,,,,,,,,,,,7,second round - tempo,plank ,6,tempo,mini squat,13,tempo,holo,15,tempo
+,,,,,,,,,,,,,,,,,,,7,pause ,suitcase walk,12,max weigth,one-leg-squat,15,max weigth,gefresson carls,10,max weigth
+,,,,,,,,,,,,,,,,,,,6,tempo,albo push,8,second round - tempo,squat,13,second round - tempo,side-plank,7,second round - tempo
+,,,,,,,,,,,,,,,,,,,9,max weigth,hipp push,8,pause ,ladder plank,7,pause ,farmer walk,9,pause 
+,,,,,,,,,,,,,,,,,,,7,second round - tempo,shulder bend,15,tempo,mini squat,14,tempo,half berpi,7,tempo
+,,,,,,,,,,,,,,,,,,,11,pause ,plank ,14,max weigth,one-leg-squat,14,max weigth,holo,7,max weigth
+,,,,,,,,,,,,,,,,,,,15,tempo,suitcase walk,10,second round - tempo,squat,9,second round - tempo,gefresson carls,13,second round - tempo
+,,,,,,,,,,,,,,,,,,,9,max weigth,albo push,13,pause ,ladder plank,13,pause ,side-plank,12,pause 

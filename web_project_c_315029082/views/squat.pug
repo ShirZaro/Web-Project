@@ -1,0 +1,194 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(http-equiv='X-UA-Compatible' content='IE=edge')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  title FITENT
+  link(rel='stylesheet' href='style.css')
+  link(rel='stylesheet' href='https://fonts.googleapis.com/icon?family=Material+Icons')
+  link(href='https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css' rel='stylesheet')
+  link(href='https://getbootstrap.com/docs/5.2/assets/css/docs.css' rel='stylesheet')
+  script(src='https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js')
+  script(src='js1.js')
+body(onload="d1()") 
+  header
+    nav.navbar.navbar-expand-lg.navbar-dark.bg-dark
+      .container-fluid
+        i.material-icons(style='color:#FFF9E9') fitness_center
+        a.navbar-brand(href='#') FITENT
+        button.navbar-toggler(type='button' data-bs-toggle='collapse' data-bs-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation')
+          span.navbar-toggler-icon
+        #navbarNav.collapse.navbar-collapse
+          ul.navbar-nav
+            li.nav-item
+              a.nav-link.active(aria-current='page' href='home-page') Home
+            li.nav-item
+              a.nav-link(href='my_proggress') My Progress
+            li.nav-item.dropdown
+              a#navbarDropdownMenuLink.nav-link.dropdown-toggle(href='#' role='button' data-bs-toggle='dropdown' aria-expanded='false')
+                | My Training
+              ul.dropdown-menu(aria-labelledby='navbarDropdownMenuLink')
+                li
+                  a.dropdown-item(href='squat') Squat
+                li
+                  a.dropdown-item(href='Deadlift') Deadlift
+                li
+                  a.dropdown-item(href='cardio') Cardio
+                li
+                  a.dropdown-item(href='mobility') Mobility
+  form(action='/createNewSquatTraining' method='POST')
+    h1#myHeader #{var1}
+    h5#Squat_Weight_1 #{Squat_Weight_1}
+    h5#Deadlift_Weight_1 #{Deadlift_Weight_1}
+    h5#Squat_Weight_2 #{Squat_Weight_2}
+    h5#Deadlift_Weight_2 #{Deadlift_Weight_2}
+    h5#Squat_Weight_3 #{Squat_Weight_3}
+    h5#Deadlift_Weight_3 #{Deadlift_Weight_3}
+    h5#Squat_Weight_4 #{Squat_Weight_4}
+    h5#Deadlift_Weight_4 #{Deadlift_Weight_4}
+    .mytable
+      h1
+        | Squat 
+      p
+        input(type='text' id='Month' name='Month' required='' placeholder= 'Month')
+        input(type='text' id='Week' name='Week' required='' placeholder='Week')
+      p  
+        ID 
+      table#myTable.table.table-bordered.table-hover
+        thead
+          tr(style='background-color:bisque;')
+            th(scope='col') Exercise
+            th(scope='col') Repetitions
+            th(scope='col') Comments
+            th(scope='col') Actual Weight 
+            th(scope='col') Times
+        tbody
+          tr(style='background-color:#FFFFE0	;')
+            td(align='center' colspan='5')
+              b 3 SETS
+          tr
+            th(scope='row')
+              input(type='text' id='Ex1_name' name='Ex1_name' value= Ex1_name)
+            th(scope='row')
+              input(type='int' id='Ex1_rep' name='Ex1_rep' value=Ex1_rep)
+            td
+              input(type='text' id='Ex1_coments' name='Ex1_coments' value=Ex1_coments)
+            td
+              input(type='number' id='Squat_ex1_weigth' name='Squat_ex1_weigth' )
+            td
+              input(type='number' id='Squat_ex1_count' name='Squat_ex1_count' )
+          tr
+            th(scope='row')
+              input(type='text' id='Ex2_name' name='Ex2_name' value= Ex2_name)
+            th(scope='row')
+              input(type='int' id='Ex2_rep' name='Ex2_rep' value=Ex2_rep)
+            td
+              input(type='text' id='Ex2_coments' name='Ex2_coments' value=Ex2_coments)
+            td
+              input(type='number' id='Squat_ex2_weigth' name='Squat_ex2_weigth' )
+            td
+              input(type='number' id='Squat_ex2_count' name='Squat_ex2_count' )
+          tr(style='background-color:#FFFFE0	;')
+            td(align='center' colspan='4')
+              b 1 SET
+          tr
+            th(scope='row')
+              input(type='text'  id='Ex3_name' name='Ex3_name'  value=Ex3_name)
+            th(scope='row')
+              input(type='int' id='Ex3_rep' name='Ex3_rep' value=Ex3_rep)
+            td
+              input(type='text' id='Ex3_coments' name='Ex3_coments' value=Ex3_coments)
+            td
+              input(type='number' )
+            td
+              input(type='number' )
+          tr(style='background-color:#FFFFE0	;')
+            td(align='center' colspan='5')
+              b 2-3 SETS
+          tr
+            th(scope='row')
+              input(type='text' id='Ex4_name' name='Ex4_name' value=Ex4_name)
+            th(scope='row')
+              input(type='int' id='Ex4_rep' name='Ex4_rep' value=Ex4_rep)
+            td
+              input(type='text' id='Ex4_coments' name='Ex4_coments' value=Ex4_coments)
+            td
+              input(type='number' )
+            td
+              input(type='number')
+          tr
+            th(scope='row')
+              input(type='text' id='Ex5_name' name='Ex5_name' value=Ex5_name)
+            th(scope='row')
+              input(type='int'  id='Ex5_rep' name='Ex5_rep' value=Ex5_rep)
+            td
+              input(type='text' id='Ex5_coments' name='Ex5_coments' value=Ex5_coments)
+            td
+              input(type='number' )
+            td
+              input(type='number' )
+          tr(style='background-color:#FFFFE0	;')
+            td(align='center' colspan='5')
+              b AMRAP 
+          tr
+            th(scope='row')
+              input(type='text' id='Ex6_name' name='Ex6_name' value=Ex6_name)
+            th(scope='row')
+              input(type='int' id='Ex6_rep' name='Ex6_rep' value=Ex6_rep)
+            td
+              input(type='text' id='Ex6_coments' name='Ex6_coments' value=Ex6_coments)
+            td
+              input(type='number' )
+            td
+              input(type='number' )
+          tr
+            th(scope='row')
+              input(type='text' id='Ex7_name' name='Ex7_name' value=Ex7_name)
+            th(scope='row')
+              input(type='int' id='Ex7_rep' name='Ex7_rep' value=Ex7_rep)
+            td
+              input(type='text' id='Ex7_coments' name='Ex7_coments'  value=Ex7_coments)
+            td
+              input(type='number' )
+            td
+              input(type='number' )
+          tr
+            th(scope='row')
+              input(type='text' id='Ex8_name' name='Ex8_name'  value=Ex8_name)
+            th(scope='row')
+              input(type='int' id='Ex8_rep' name='Ex8_rep' value=Ex8_rep)
+            td
+              input(type='text' id='Ex8_coments' name='Ex8_coments' value=Ex8_coments)
+            td
+              input(type='number' )
+            td
+              input(type='number' )
+          tr
+            th(scope='row')
+              input(type='text' id='Ex9_name' name='Ex9_name'  value=Ex9_name)
+            th(scope='row')
+              input(type='int' id='Ex9_rep' name='Ex9_rep' value=Ex9_rep)
+            td
+              input(type='text' id='Ex9_coments' name='Ex9_coments' value=Ex9_coments)
+            td
+              input(type='number')
+            td
+              input(type='number' )
+      .Save
+        button.button.button1(type='submit' ) Save
+  footer
+    .fixed-bottom
+      .row
+        .column
+          h4 Adress
+          p  Bnei Or 30 ,BEER SHEVA
+        .column
+          h4 Contact
+          p
+            | 0545634688
+            br
+            a(href='mailto:moriyafitent@gmail.com') moriyafitent@gmail.com
+        .column
+          .map
+            a.nav-link(href='https://goo.gl/maps/L6XgZsw6pDpcib8D9')
+              img(src='../imeges/map1.png' width='180' height='70')

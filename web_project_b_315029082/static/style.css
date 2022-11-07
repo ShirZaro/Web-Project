@@ -255,6 +255,8 @@ letter-spacing: 1px;
         height: 10%;
         align-items: center;
         background-size: cover;
+        z-index: 0 !important;
+        position: relative !important;
     }
     .column {
         float: left;

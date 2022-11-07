@@ -1,0 +1,64 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(http-equiv='X-UA-Compatible' content='IE=edge')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  title FITENT
+  link(rel='stylesheet' href='style.css')
+  link(rel='stylesheet' href='https://fonts.googleapis.com/icon?family=Material+Icons')
+  link(href='https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css' rel='stylesheet')
+  link(href='https://getbootstrap.com/docs/5.2/assets/css/docs.css' rel='stylesheet')
+  script(src='https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js')
+  script(src='js1.js')
+body(onload="start()")
+  nav.navbar.navbar-expand-lg.navbar-dark.bg-dark 
+    .container-fluid 
+      i.material-icons(style='color:#FFF9E9') fitness_center
+      a.navbar-brand(href='#') FITENT
+      button.navbar-toggler(type='button' data-bs-toggle='collapse' data-bs-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation')
+        span.navbar-toggler-icon
+      #navbarNav.collapse.navbar-collapse
+        ul.navbar-nav
+          li.nav-item
+            a.nav-link.active(aria-current='page' href='#')
+              #demo  
+  section
+    .imgBX
+      img.rounded-circle(src='../imeges/Picture1.jpg' alt='Cinque Terre')
+    .content
+      .formbx
+        h1 WELCOME TO FITENT!
+        form( action='/find' method='GET' )
+          .input-box
+            .icon
+              span
+                i.material-icons person
+            .textdiv
+              span
+                input(type='number' name="SearchID" id="SearchID" placeholder='Enter your ID' required='')
+          .remmeber
+            label
+              input(type='checkbox' name='')
+            |   Remmember me
+          .submit 
+            input#GoButton(type='submit' value='LOG IN')
+          .input-box
+            p
+              | Don&apos;t have an account? 
+              a(href='sign_up') Sign up
+  footer
+    .fixed-bottom
+      .row
+        .column
+          h4 Adress
+          p  Bnei Or 30 ,BEER SHEVA
+        .column
+          h4 Contact
+          p
+            | 0545634688
+            br
+            a(href='mailto:moriyafitent@gmail.com') moriyafitent@gmail.com
+        .column
+          .map
+            a.nav-link(href='https://goo.gl/maps/L6XgZsw6pDpcib8D9')
+              img(src='../imeges/map1.png' width='180' height='70')
